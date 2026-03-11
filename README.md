@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Davlatbek
 
-<!--
-**tand360/tand360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python learner  
+🔐 Interested in Cybersecurity  
+🐧 Linux user  
+🚀 Future AI Security Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- Linux
+- Networking
+- Git / GitHub
+
+---
+
+## 📚 Currently Learning
+- Cybersecurity
+- Ethical Hacking
+- AI Security
+- Automation with Python
+
+---
+
+## 🎯 Goals
+- Become cybersecurity expert
+- Build AI security tools
+- Create automated businesses
+- Build startups
+
+---
+
+## 🛠 Projects
+- Python calculator
+- Password generator
+- Telegram bot
+- Automation scripts
+
+---
+
+## 📫 Contact
+- Email: yourmail@gmail.com
+- Telegram: @username
